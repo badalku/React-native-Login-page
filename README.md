@@ -1,6 +1,6 @@
 # Login-SignUp-UI-React-Native📱
 
-![final](https://github.com/NinadVyas/Login-Ui-React-Native/assets/115214615/13c2114b-5dc2-4c62-97fa-3967bb923c93)
+![final](https://github.com/badalku/React-native-Login-page.gitß)
 
 ## ◉ Get Started
 
